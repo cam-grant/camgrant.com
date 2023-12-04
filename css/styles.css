@@ -50,6 +50,14 @@ h2 {
     color: #3f4e4f;
 }
 
+main {
+    font-size: 0.875rem;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #2d2d2d;
+    margin: 2rem 0;
+}
+
 p {
     line-height: 1.4rem;
 }
@@ -106,13 +114,5 @@ footer p {
     line-height: 22px;
 }
 
-main {
-    font-size: 0.875rem;
-    line-height: 1.5;
-    /* letter-spacing: -0.5px; */
-    font-weight: 400;
-    color: #2d2d2d;
-    margin: 2rem 0;
-}
 
 
